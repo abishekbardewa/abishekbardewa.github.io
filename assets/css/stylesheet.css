@@ -3433,3 +3433,9 @@ input:-internal-autofill-selected {
 	left: -40px;
 	border-radius: 4px 0px 0px 4px;
 }
+
+.box {
+	-moz-box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+	-webkit-box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+	box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+}
